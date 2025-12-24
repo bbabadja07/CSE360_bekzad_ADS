@@ -1,0 +1,5 @@
+{
+  "name": "ADS - Autonomous Dam System",
+  "description": "A smart AI + IoT solution dashboard for autonomous dam gate control, real-time monitoring, and predictive flood prevention.",
+  "requestFramePermissions": []
+}
